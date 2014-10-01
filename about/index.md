@@ -1,8 +1,7 @@
 ---
 layout: page
 title: About me
-tags: [Siniša, Komarica, about, java, software, developer, full, stack]
-modified: 2014-10-01T20:53:07.573882-04:00
+tags: [Siniša, Komarica, about, java, software, developer, full stack, Alfresco Certified Administrator, Alfresco Certified Engineer]
 comments: false
 image:
   feature: texture-feature-01.jpg
