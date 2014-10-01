@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About me
-tags: [Siniša, Komarica, about, java, software, developer, full stack, Alfresco Certified Administrator, Alfresco Certified Engineer]
+tags: [Siniša, Komarica, About, Software, Developer, Full Stack, Software Architecture, Software Design, Software Development, Java, Java EE, Web, Open Source, Alfresco, Activiti, Spring, Cloud, Amazon, Enterprise Content Management, ECM, Document Management, DM, Business Process Managemen, BPM, Workflow, Alfresco Certified Administrator, Alfresco Certified Engineer]
 comments: false
 image:
   feature: texture-feature-01.jpg
