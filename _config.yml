@@ -1,0 +1,55 @@
+# Site wide configuration
+
+title:            Siniša Komarica
+locale:           en_US
+url:              https://skomarica.github.io
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: Siniša Komarica
+  avatar: bio-photo.jpg
+  bio: "Programming is not just a job or craft - it's form of art."
+  email: sinisa.komarica@gmail.com
+  disqus-shortname: skomarica
+  twitter: skomarica
+  facebook: #username
+  google:
+    plus: #username
+    analytics: UA-44753459-2
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  github: skomarica
+  stackoverflow: #http://stackoverflow.com/users/123456/username
+  linkedin: komarica
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
