@@ -23,5 +23,4 @@ hosting environment, over data modelling, implementing business logic, up to car
 <figure class="half">
     <a href="/images/Alfresco_Certified_Administrator_CMYK.jpg"><img src="/images/Alfresco_Certified_Administrator_CMYK.png"></a>
     <a href="/images/Alfresco_Certified_Engineer_CMYK.jpg"><img src="/images/Alfresco_Certified_Engineer_CMYK.png"></a>
-    <figcaption>Alfresco Certified Administrator & Alfresco Certified Engineer</figcaption>
 </figure>
