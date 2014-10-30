@@ -32,7 +32,7 @@ Now install PostgreSQL 9.1, including contrib and pgadmin3 packages, and check i
 
 To allow remote connections to PostgreSQL server, add the following line to the config file `/etc/postgresql/9.1/main/postgresql.conf`:
 
-> listen_addresses='*'
+> listen_addresses=\'\*\'
 
 , and following one to another config file `/etc/postgresql/9.1/main/pg_hba.conf`:
 
@@ -81,7 +81,7 @@ Add following lines (variables) to your `~/.profile` file:
 
 > export JAVA_HOME=/home/\<user\>/java/jdk/jdk1.6.0_45<BR/>
 > export ANT_HOME=/home/\<user\>/java/tools/apache-ant-1.8.4<BR/>
-> export ANT_OPTS="-Xmx1024M -XX:MaxPermSize=128M"<BR/>
+> export ANT_OPTS=\"-Xmx1024M -XX:MaxPermSize=128M\"<BR/>
 > export PATH=$PATH:$JAVA_HOME/bin:$ANT_HOME/bin<BR/>
 
 Load variables into SSH session (or restart Ubuntu):
