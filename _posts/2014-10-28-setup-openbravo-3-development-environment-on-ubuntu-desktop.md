@@ -88,7 +88,7 @@ Load variables into SSH session (or restart Ubuntu):
 
     $ source .profile
 
-### 6. Openbravo 3.0PR14Q3.2
+### 6. Openbravo 3.0
 
 Current version of Openbravo is 3.0PR14Q3.2. Download `openbravo-3.0PR14Q3.2.tar.bz2`. Copy installation file to appropriate location (eg. `~/java/workspace/ob3/<project-name>`), extract it and rename root folder:
 
@@ -128,9 +128,9 @@ After the task has completed the log should not contain any error or exception m
 
     $ grep error install.source.out
 
-### 7. Eclipse 4.4.0 (EE)
+### 7. Eclipse IDE for Java EE Developers
 
-Current Eclipse version is Luna 4.4.1. Prepare your IDE:
+Current Eclipse version is Luna 4.4.1. Don't forget to download IDE for Java EE developers. Prepare your IDE:
 
 - select workspace: `~/java/workspace/ob3/<project-name>`
 - disable `Project -> Build Automatically`
