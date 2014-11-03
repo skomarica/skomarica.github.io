@@ -126,7 +126,7 @@ Remove sample reference data if you don't need it. Run install source and track 
 
 After the task has completed the log should not contain any error or exception massages as well as it should have BUILD SUCCESSFUL message at the end of the file.
 
-    $ grep error install.source.out
+    $ grep -i error install.source.out
 
 ### 7. Eclipse IDE for Java EE Developers
 
