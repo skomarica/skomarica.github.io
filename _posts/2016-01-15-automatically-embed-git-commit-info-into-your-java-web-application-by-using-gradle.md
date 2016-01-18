@@ -72,7 +72,7 @@ Now, when you build your .war file by executing the `gradle war` command, the `v
 
 ### Summary
 
-A very simple, but complete Java web application example, based on this tutorial, can be found on [https://github.com/skomarica/gradle-git-version-webapp](https://github.com/skomarica/gradle-git-version-webapp). A version file is going to be created during the build. Simple servlet will load the file and return a response in a JSON format. 
+A very simple, but complete Java web application example **source code**, based on this tutorial, can be found on [https://github.com/skomarica/gradle-git-version-webapp](https://github.com/skomarica/gradle-git-version-webapp). A version file is going to be created during the build. Simple servlet will load the file and return a response in a JSON format. 
 
 1. Clone the repository
 2. Run `gradle war` (or `gradle jettyRunWar` if you use the `jetty` plugin). A version file is going to be created and embedded into a .war file, and it can be found on the path `ggv/WEB-INF/classes/version.properies`
