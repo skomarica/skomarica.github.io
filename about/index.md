@@ -9,8 +9,8 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-I'm a full stack Java Software Developer with over 6 years of experience in software development industry. I've been included in number of different software development projects, covering different layers of the stack - from server, network and 
-hosting environment, over data modelling, implementing business logic, up to caring about user interfaces and user experience.
+I'm a full stack Java Software Developer with over 7 years of experience in the software industry. I've been included in a number of different software development projects, covering different layers of the stack - from server, network and 
+hosting environments, over data modelling, implementing business logic, up to caring about user interfaces and user experience.
 
 ## Expertise and interests
 * Java / Java EE multi-tier software development
