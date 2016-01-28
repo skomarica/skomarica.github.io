@@ -9,7 +9,7 @@ image:
   creditlink: http://texturelovers.com
 ---
 
-I'm a full stack Java Software Developer with over 7 years of experience in the software industry. I've been included in a number of different software development projects, covering different layers of the stack - from server, network and 
+I'm a full stack Java Software Developer with over {{ site.time | date: '%Y' | minus:2009 }} years of work experience in the software industry. I've been included in a number of different software development projects, covering different layers of the stack - from server, network and 
 hosting environments, over data modelling, implementing business logic, up to caring about user interfaces and user experience.
 
 ## Expertise and interests
